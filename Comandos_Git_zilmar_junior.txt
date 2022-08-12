@@ -1,0 +1,12 @@
+git config --global user.name Juliett Garcia
+git config --global user.email juliettgarcia.dev@gmail.com
+git remote origin (colocar url do site)
+git push origin master (subir o arquivo para o git)
+git clone + url do github (para recuperar arq deletado)
+git branch (cria um novo "usuário")
+git checkout (para mudar a conta da branch)
+git branch -d (deleta a nova branch localmente [no pc])
+git merge + nome da branch (junta tudo q o novo branch fez e sobe para o git [ter certeza se ta td certo])
+git pull (baixa arquivo do github)
+git log (vejo o historico)
+git revert + codigo que vejo pelo "git log" - recupero o arquivo deletado
